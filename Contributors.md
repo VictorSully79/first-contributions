@@ -8,6 +8,7 @@
 - [Thidiyas Limbu](https://github.com/Thidiyas3d)
 - [Anirvan Goswami](https://github.com/Anirvan1)
 - [Sandeep Panwar](https://github.com/sandeep-90)
+- [Victor Sullivan] (https://github.com/VictorSully79)
 - [Oscar Frederiksen](https://github.com/oscarscfrederiksen)
 - [Aidan Rauscher] (https://github.com/aidanjrauscher)
 - [Omar Elsherif](https://github.com/omarelsherif010)
